@@ -34,4 +34,4 @@ jobs:
       with:
         token: ${{ secrets.CR_PAT }}
         repository: energy-savings-scheme/openfisca-nsw-deploy
-        event-type: my-event
+        event-type: submodule-updated
